@@ -13,4 +13,4 @@
 ![](https://img.shields.io/badge/-JavaScript-1e1e1e?style=flat&logo=JavaScript) ![](https://img.shields.io/badge/-Python-1e1e1e?style=flat&logo=Python) ![](https://img.shields.io/badge/-HTML5-1e1e1e?style=flat&logo=HTML5) ![](https://img.shields.io/badge/-CSS-1e1e1e?style=flat&logo=CsS3)
 
 ## Who am I?
-**I define myself as a [Research Software Engineer](https://ukrse.github.io/who.html)**
+**I define myself as a *Web Developer*
