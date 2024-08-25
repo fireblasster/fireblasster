@@ -2,8 +2,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=stodja&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true)
 
-![](https://komarev.com/ghpvc/?username=stodja)
-
 ![](https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png)
 
 ## Languages
