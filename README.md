@@ -6,8 +6,5 @@
 
 ![](https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png)
 
-## Tools
-![](https://img.shields.io/badge/-Github-1e1e1e?style=flat&logo=Github) ![](https://img.shields.io/badge/-Visual%20Studio%20Code-1e1e1e?style=flat&logo=Visual%20Studio%20Code&logoColor=007acc) ![](https://img.shields.io/badge/-Linux-1e1e1e?style=flat&logo=linux)
-
 ## Languages
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/-Python-14354c?style=flat&logo=Python&logoColor=white) ![](https://img.shields.io/badge/-Java-ed8b00?style=flat&logo=openjdk) ![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![](https://img.shields.io/badge/-CSS-1e1e1e?style=flat&logo=CsS3)
